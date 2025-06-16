@@ -72,3 +72,9 @@ The hardest part was probably getting the permissions right - making sure custom
 
 This was a learning project, so there are definitely things I'd do differently in production (better error handling, filtering/searching, environment variables, tests, etc).
 
+
+
+![Screenshot 2025-06-16 170711](https://github.com/user-attachments/assets/a6ce7739-950a-41c4-adfd-52efc34f33a9)
+![Screenshot 2025-06-16 171608](https://github.com/user-attachments/assets/834c56fd-a4bd-4322-92d5-08c9fb7fc8ab)
+![Screenshot 2025-06-16 170936](https://github.com/user-attachments/assets/6ff31822-cd5c-41bc-b102-2491170444ac)
+![Screenshot 2025-06-16 171658](https://github.com/user-attachments/assets/c45ef89d-e6c0-440e-a4a6-606f313a1e60)
